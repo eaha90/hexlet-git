@@ -1,2 +1,1 @@
-git is awesome
-add new content
+No code No pain
